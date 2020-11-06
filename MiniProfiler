@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.Profiling;
 using UnityEngine.Rendering;
 
+
 public class MiniProfiler : MonoBehaviour {
 	public bool m_Enable = true;
 
