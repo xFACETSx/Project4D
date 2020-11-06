@@ -3,6 +3,7 @@ using UnityEngine.Rendering;
 using UnityEngine.Experimental.Rendering;
 using UnityEngine.Experimental.Rendering.HDPipeline;
 
+
 [ExecuteInEditMode]
 public class QualitySelector : MonoBehaviour {
 	public enum Platform { Desktop, PS4, PS4Pro, XB1, XB1X };
